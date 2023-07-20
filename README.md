@@ -1,12 +1,10 @@
 # [Project] - Linkset
 
-
-
 ```
 ### Framework
 
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
+*[Laravel](https://laravel.com)
+*[Bootstrap](https://getbootstrap.com)
 
 ### Library
 
@@ -14,7 +12,7 @@
 
 ### Package
 
-* [laravel/ui](https://github.com/laravel/ui)
+*[laravel/ui](https://github.com/laravel/ui)
 
 
 <!-- GETTING STARTED -->
